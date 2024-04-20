@@ -20,7 +20,7 @@ Sem usar recursão e preenchendo uma matriz de resultados.
 Eles esperam receber um programa que recebe o nome do arquivo de tobogã pela linha de comando
 e apresenta o número correto de caminhos.
 
-Exemplo de arquivo e execução
+Exemplo de arquivo e execução  
 12 18  
 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0  
 0 0 0 0 1 0 1 0 1 0 0 0 0 0 0 1 1 0  
