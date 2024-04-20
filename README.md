@@ -18,21 +18,21 @@ Usando memorização na sua recursão;
 Sem usar recursão e preenchendo uma matriz de resultados.
 
 Eles esperam receber um programa que recebe o nome do arquivo de tobogã pela linha de comando
-e apresenta o número correto de caminhos. Ah, sim: o parque só roda Java.
+e apresenta o número correto de caminhos.
 
 Exemplo de arquivo e execução
 12 18
-0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0
-0 0 0 0 1 0 1 0 1 0 0 0 0 0 0 1 1 0
-0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0
-0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 1 0
-0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0
-0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0
-0 0 1 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0
-0 0 0 0 0 1 0 0 1 0 0 1 0 0 0 1 0 0
-0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-0 0 0 0 0 0 1 0 0 0 0 0 0 0 1 0 0 0
-0 0 0 1 0 0 0 0 0 0 1 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0  
+0 0 0 0 1 0 1 0 1 0 0 0 0 0 0 1 1 0  
+0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0  
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0  
+0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 1 0  
+0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0  
+0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0  
+0 0 1 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0  
+0 0 0 0 0 1 0 0 1 0 0 1 0 0 0 1 0 0  
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0  
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 1 0 0 0  
+0 0 0 1 0 0 0 0 0 0 1 0 0 0 0 0 0 0  
 
 O manual fornece um exemplo pequeno, representado para um tobogã de altura 12 metros por 18 metros de comprimento. Os tobogás oferecidos são geralmente bem maiores do que isso!
