@@ -21,7 +21,7 @@ Eles esperam receber um programa que recebe o nome do arquivo de tobogã pela li
 e apresenta o número correto de caminhos.
 
 Exemplo de arquivo e execução
-12 18
+12 18  
 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0  
 0 0 0 0 1 0 1 0 1 0 0 0 0 0 0 1 1 0  
 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0  
